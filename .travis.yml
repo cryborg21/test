@@ -2,10 +2,10 @@
 language: cpp
 # Compiler selection
 compiler:
-  - gcc
+  - g++
 # Build steps
 script:
-  - mkdir build
-  - cd build
-  - cmake ..
-  - make
+#  - mkdir build
+#  - cd build
+#  - cmake ..
+#  - make
